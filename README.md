@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mirwais Hashimi
 - 👀 I’m interested in Cyber Security and Computer Programming.
-- 🌱 I’m currently learning Python and CompTia Network+
-- 💞️ I’m looking to collaborate on Python and C++ Project
+- 🌱 I’m currently learning Java and CompTia Network+
+- 💞️ I’m looking to collaborate on Java and C++ Project
 - 📫 How to reach me Email: mhashimi321@gmail.com - Twitter: Mirwais55606319
 
 <!---
