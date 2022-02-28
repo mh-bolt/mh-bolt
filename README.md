@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mirwais Hashimi
-- 👀 I’m interested in Cyber Security, Computer Programming, and Web Development.
-- 🌱 I’m currently learning Java and CompTia Network+
+- 👀 I’m interested in Computer Programming & Web Development.
+- 🌱 I’m currently learning Java, HTML & CSS.
 - 💞️ I’m looking to collaborate on Java, C++, and Web Projects. 
 - 📫 How to reach me Email: mhashimi321@gmail.com - Twitter: Mirwais55606319
 
